@@ -1,0 +1,27 @@
+{
+  "alwaysThinkingEnabled": true,
+  "model": "opus",
+  "hooks": {
+    "Notification": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/david/.claude/hooks/notify.sh"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/david/.claude/hooks/notify.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
