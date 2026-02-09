@@ -1,5 +1,5 @@
 [window]
-decorations = "Buttonless"
+#decorations = "Buttonless"
 opacity = 0.80
 blur = true
 padding = { x = 10, y = 10 }
@@ -28,3 +28,8 @@ key = "Right"
 mods = "Alt"
 chars = "\u001bf"
 
+
+[[keyboard.bindings]]
+key = "Return"
+mods = "Shift"
+chars = "\u001b\r"

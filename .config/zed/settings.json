@@ -7,6 +7,9 @@
 // custom settings, run the `open default settings` command
 // from the command palette or from `Zed` application menu.
 {
+  "edit_predictions": {
+    "provider": "copilot"
+  },
   "agent_servers": {
     "claude": {
       
@@ -26,9 +29,6 @@
     }
   },
   "icon_theme": "Colored Zed Icons Theme Dark",
-  "features": {
-    "edit_prediction_provider": "copilot"
-  },
   "agent": {
     "always_allow_tool_actions": true,
     "inline_assistant_model": {
@@ -44,8 +44,8 @@
   "show_edit_predictions": true,
   "theme": {
     "mode": "system",
-    "light": "Github Light",
-    "dark": "GitHub Dark"
+    "light": "Ayu Light",
+    "dark": "Ayu Dark"
   },
   "ui_font_size": 14,
   "buffer_font_size": 12,
