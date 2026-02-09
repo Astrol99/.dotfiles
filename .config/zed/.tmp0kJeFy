@@ -1,0 +1,35 @@
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Setting","setting":"theme","value":"Ayu Dark"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Setting","setting":"keymap","value":"VSCode"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"App","operation":"open"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Editor","operation":"open","file_extension":"tsx","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true}
+{"signed_in":false,"milliseconds_since_first_event":7753,"type":"App","operation":"extensions page: open"}
+{"signed_in":false,"milliseconds_since_first_event":35192,"type":"App","operation":"extensions: install extension"}
+{"signed_in":false,"milliseconds_since_first_event":39664,"type":"Action","source":"command palette","action":"theme selector: toggle"}
+{"signed_in":false,"milliseconds_since_first_event":44582,"type":"Setting","setting":"theme","value":"Andromeda"}
+{"signed_in":false,"milliseconds_since_first_event":48082,"type":"Action","source":"command palette","action":"theme selector: toggle"}
+{"signed_in":false,"milliseconds_since_first_event":52880,"type":"Setting","setting":"theme","value":"Andromeda"}
+{"signed_in":false,"milliseconds_since_first_event":59346,"type":"Action","source":"command palette","action":"theme selector: toggle"}
+{"signed_in":false,"milliseconds_since_first_event":67478,"type":"App","operation":"extensions: install extension"}
+{"signed_in":false,"milliseconds_since_first_event":70647,"type":"Action","source":"command palette","action":"theme selector: toggle"}
+{"signed_in":false,"milliseconds_since_first_event":77986,"type":"Setting","setting":"theme","value":"Sandcastle"}
+{"signed_in":false,"milliseconds_since_first_event":80082,"type":"App","operation":"extensions: uninstall extension"}
+{"signed_in":false,"milliseconds_since_first_event":80818,"type":"App","operation":"extensions: uninstall extension"}
+{"signed_in":false,"milliseconds_since_first_event":81514,"type":"App","operation":"extensions: install extension"}
+{"signed_in":false,"milliseconds_since_first_event":84836,"type":"Action","source":"command palette","action":"theme selector: toggle"}
+{"signed_in":false,"milliseconds_since_first_event":88089,"type":"Setting","setting":"theme","value":"The Dark Side"}
+{"signed_in":false,"milliseconds_since_first_event":91371,"type":"App","operation":"extensions: uninstall extension"}
+{"signed_in":false,"milliseconds_since_first_event":93943,"type":"App","operation":"extensions: install extension"}
+{"signed_in":false,"milliseconds_since_first_event":97865,"type":"Action","source":"command palette","action":"theme selector: toggle"}
+{"signed_in":false,"milliseconds_since_first_event":100205,"type":"Setting","setting":"theme","value":"Github Dark"}
+{"signed_in":false,"milliseconds_since_first_event":106202,"type":"App","operation":"extensions: install extension"}
+{"signed_in":false,"milliseconds_since_first_event":109458,"type":"Action","source":"command palette","action":"theme selector: toggle"}
+{"signed_in":false,"milliseconds_since_first_event":117434,"type":"Setting","setting":"theme","value":"Tokyo Night"}
+{"signed_in":false,"milliseconds_since_first_event":124155,"type":"App","operation":"extensions: install extension"}
+{"signed_in":false,"milliseconds_since_first_event":126774,"type":"Action","source":"command palette","action":"theme selector: toggle"}
+{"signed_in":false,"milliseconds_since_first_event":147267,"type":"Action","source":"command palette","action":"theme selector: toggle"}
+{"signed_in":false,"milliseconds_since_first_event":149365,"type":"Setting","setting":"theme","value":"Github Dark"}
+{"signed_in":false,"milliseconds_since_first_event":238389,"type":"Memory","memory_in_bytes":331890688,"virtual_memory_in_bytes":467528826880}
+{"signed_in":false,"milliseconds_since_first_event":238389,"type":"Cpu","usage_as_percentage":10.38289,"core_count":8}
+{"signed_in":false,"milliseconds_since_first_event":258454,"type":"Editor","operation":"open","file_extension":null,"vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true}
+{"signed_in":false,"milliseconds_since_first_event":258454,"type":"App","operation":"project diagnostics: open"}
+{"signed_in":false,"milliseconds_since_first_event":258459,"type":"Edit","duration":425,"environment":"terminal"}

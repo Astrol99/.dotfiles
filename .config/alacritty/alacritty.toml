@@ -1,0 +1,30 @@
+[window]
+decorations = "Buttonless"
+opacity = 0.80
+blur = true
+padding = { x = 10, y = 10 }
+dimensions = { columns = 100, lines = 30 }
+# This allows you to use the Option key as a Meta/Alt key for shortcuts
+option_as_alt = "Both"
+
+[font]
+size = 12.0
+normal = { family = "Menlo", style = "Regular" }
+
+[cursor]
+style = "Block"
+
+[env]
+TERM = "xterm-256color"
+
+# Fix tmux bindings
+[[keyboard.bindings]]
+key = "Left"
+mods = "Alt"
+chars = "\u001bb"
+
+[[keyboard.bindings]]
+key = "Right"
+mods = "Alt"
+chars = "\u001bf"
+

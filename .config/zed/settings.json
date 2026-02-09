@@ -1,0 +1,85 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run the `open default settings` command
+// from the command palette or from `Zed` application menu.
+{
+  "agent_servers": {
+    "claude": {
+      
+    }
+  },
+  "languages": {
+    "Python": {
+      "show_edit_predictions": true
+    }
+  },
+  "context_servers": {
+    "mcp-server-context7": {
+      "enabled": true,
+      "settings": {
+        "context7_api_key": "ctx7sk-a1325d29-c8d0-43d2-bf22-0c2cd376be85"
+      }
+    }
+  },
+  "icon_theme": "Colored Zed Icons Theme Dark",
+  "features": {
+    "edit_prediction_provider": "copilot"
+  },
+  "agent": {
+    "always_allow_tool_actions": true,
+    "inline_assistant_model": {
+      "provider": "copilot_chat",
+      "model": "gemini-2.0-flash-001"
+    },
+    "default_profile": "ask",
+    "default_model": {
+      "provider": "copilot_chat",
+      "model": "claude-opus-4.5"
+    }
+  },
+  "show_edit_predictions": true,
+  "theme": {
+    "mode": "system",
+    "light": "Github Light",
+    "dark": "GitHub Dark"
+  },
+  "ui_font_size": 14,
+  "buffer_font_size": 12,
+  "autosave": { "after_delay": { "milliseconds": 500 } },
+  "terminal": {
+    "line_height": "standard",
+    "toolbar": {
+      "breadcrumbs": false
+    }
+  },
+  "toolbar": {
+    "breadcrumbs": false,
+    "quick_actions": false
+  },
+  "title_bar": {
+    "show_branch_icon": true,
+    "show_user_picture": false
+  },
+  "git": {
+    "inline_blame": {
+      "enabled": false
+    }
+  },
+  "code_actions_on_format": {
+    "source.fixAll.eslint": true,
+    "source.removeUnusedImports": true
+  },
+  "project_panel": {
+    "entry_spacing": "standard",
+    "indent_size": 10
+  },
+  "diagnostics": {
+    "inline": {
+      "enabled": true
+    }
+  }
+}
