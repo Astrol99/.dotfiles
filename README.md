@@ -1,4 +1,4 @@
-# .dotfiles blah
+# .dotfiles
 my .dotfiles
 
 ## Setup
@@ -12,30 +12,29 @@ stow -v .
 ## .stow-local-ignore
 Sometimes, you may want Stow to ignore specific files or directories within your dotfiles setup. For this, you can use a .stow-local-ignore file inside the respective package directory.
 
-## Cookie Recipe
+## Banana Bread Recipe
 
-### Classic Chocolate Chip Cookies
+### Classic Banana Bread
 
 **Ingredients:**
-- 2 1/4 cups all-purpose flour
+- 3 ripe bananas, mashed
+- 1/3 cup melted butter
+- 3/4 cup sugar
+- 1 large egg, beaten
+- 1 tsp vanilla extract
 - 1 tsp baking soda
-- 1 tsp salt
-- 1 cup (2 sticks) butter, softened
-- 3/4 cup granulated sugar
-- 3/4 cup packed brown sugar
-- 2 large eggs
-- 2 tsp vanilla extract
-- 2 cups chocolate chips
+- Pinch of salt
+- 1 1/2 cups all-purpose flour
 
 **Instructions:**
-1. Preheat oven to 375°F (190°C).
-2. Combine flour, baking soda, and salt in a small bowl.
-3. Beat butter, granulated sugar, brown sugar, and vanilla extract in a large bowl until creamy.
-4. Add eggs one at a time, beating well after each addition.
-5. Gradually blend in the flour mixture.
-6. Stir in chocolate chips.
-7. Drop rounded tablespoons of dough onto ungreased baking sheets.
-8. Bake for 9 to 11 minutes or until golden brown.
-9. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
+1. Preheat oven to 350°F (175°C). Grease a 4x8 inch loaf pan.
+2. Mash the ripe bananas in a mixing bowl until smooth.
+3. Stir in the melted butter.
+4. Mix in the sugar, beaten egg, and vanilla extract.
+5. Sprinkle in the baking soda and salt, then stir to combine.
+6. Gently fold in the flour until just incorporated. Do not overmix.
+7. Pour the batter into the prepared loaf pan.
+8. Bake for 60 to 65 minutes, or until a toothpick inserted in the center comes out clean.
+9. Let cool in the pan for 10 minutes, then transfer to a wire rack to cool completely.
 
-Makes about 5 dozen cookies.
+Makes 1 loaf.
